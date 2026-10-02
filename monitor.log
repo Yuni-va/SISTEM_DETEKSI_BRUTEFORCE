@@ -1,0 +1,9 @@
+[2026-06-30 15:02:19] Python monitor started.
+[2026-06-30 15:02:58] Python monitor started.
+[2026-06-30 15:20:19] {"blocked": true, "status": "already_blocked", "ip": "127.0.0.1", "username": "admin", "failed": 5, "threshold": 5, "blocked_until": "2026-06-30 15:35:15"}
+[2026-06-30 15:20:29] {"blocked": true, "status": "already_blocked", "ip": "127.0.0.1", "username": "admin", "failed": 5, "threshold": 5, "blocked_until": "2026-06-30 15:35:15"}
+[2026-06-30 15:20:39] {"blocked": true, "status": "already_blocked", "ip": "127.0.0.1", "username": "admin", "failed": 5, "threshold": 5, "blocked_until": "2026-06-30 15:35:15"}
+[2026-06-30 15:20:49] {"blocked": true, "status": "already_blocked", "ip": "127.0.0.1", "username": "admin", "failed": 5, "threshold": 5, "blocked_until": "2026-06-30 15:35:15"}
+[2026-07-09 20:57:09] Python monitor started.
+[2026-07-11 11:06:41] Python monitor started.
+[2026-07-12 10:35:59] Python monitor started.
